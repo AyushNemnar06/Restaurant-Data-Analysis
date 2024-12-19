@@ -1,0 +1,28 @@
+---Creating DataBase for Our Restaurant Analysis Project---
+
+--1.High-Spending Customers: Which customers are placing the highest number of orders or have the highest order amounts?
+--2.Peak Order Time: At what times of the day are the highest number of orders placed?
+--3.Popular Payment Mode: What is the most common payment mode used by customers?
+--4.Delivery Performance: What is the average delivery time for different zones?
+--5.Order Quantity vs. Amount: Is there a relationship between the quantity of items ordered and the total order amount?
+--6.Customer Satisfaction: Which restaurants consistently get the highest customer ratings for food and delivery?
+--7.Order Size: What is the average number of items ordered per order?
+--8.Delivery Efficiency: Which restaurants consistently have the fastest delivery times?
+--9.Top 10 customer who has Highest Order Amount?
+
+-----Restaurants Table Analysis---
+
+--1.Cuisine Popularity: Which cuisine type is the most ordered across different zones ?
+--2.Cuisine Popularity: Which cuisine type is the most ordered ?
+--3.Restaurant Performance: Which restaurant has the highest average customer ratings (both for food and delivery)?
+--4.Zone-wise Cuisine Distribution: How is the distribution of cuisine types across different zones?
+
+--Combined Orders and Restaurants Analysis---
+
+
+--1.Top Restaurants: Which restaurants are generating the highest revenue based on the total order amount?
+--2.Zone-Wise Performance: Which zones are performing the best in terms of order volume and revenue?
+--3.Customer Preferences by Zone: What cuisines or categories are most preferred in each zone?
+--4.Order Amount by Cuisine: Which cuisine types generate the highest average order amounts?
+
+
