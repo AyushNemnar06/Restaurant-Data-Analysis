@@ -1,4 +1,5 @@
 # 🍽️ Restaurant Data Analysis
+![visuals](bg.png)
 
 **📌 Project Overview**
 This project focuses on analyzing restaurant orders and performance using SQL. The analysis provides insights into customer behavior, restaurant efficiency, and business performance trends.
